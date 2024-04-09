@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Running Shoes",
+        "price": 99.99,
+        "feature": true,
+        "company": "Nike"
+    },
+    {
+        "name": "Smartphone",
+        "price": 799.99,
+        "feature": true,
+        "company": "Apple"
+    },
+    {
+        "name": "Laptop",
+        "price": 1299.99,
+        "company": "Dell"
+    },
+    {
+        "name": "Sports T-shirt",
+        "price": 29.99,
+        "company": "Nike"
+    },
+    {
+        "name": "Wireless Earbuds",
+        "price": 79.99,
+        "company": "Apple"
+    },
+    {
+        "name": "Backpack",
+        "price": 49.99,
+        "company": "Nike"
+    },
+    {
+        "name": "Gaming Mouse",
+        "price": 49.99,
+        "company": "Dell"
+    },
+    {
+        "name": "Running Shorts",
+        "price": 39.99,
+        "company": "Nike"
+    },
+    {
+        "name": "Fitness Tracker",
+        "price": 129.99,
+        "company": "Apple"
+    },
+    {
+        "name": "Wireless Speaker",
+        "price": 149.99,
+        "company": "Dell"
+    }
+]
